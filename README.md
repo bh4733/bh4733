@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bh4733&label=Profile%20views&color=0e75b6&style=flat" alt="bh4733" /> </p>
 
-- 🔭 I’m currently working on **Dynamic E-commerce Site**
+- 🔭 I’m currently working on **Study Planner Web App** **A Traffic incident tracking app** **Gamified Learning Website**
 
 - 🌱 I’m currently learning **React**
 
